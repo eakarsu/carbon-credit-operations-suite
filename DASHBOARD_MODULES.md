@@ -8,3 +8,5 @@
 - Exceptions operating view
 - Risk Scores operating view
 - Statements operating view
+
+- Carbon Credit Deep Workflows operating view

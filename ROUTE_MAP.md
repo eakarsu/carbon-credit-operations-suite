@@ -7,6 +7,10 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/vintage-price-review`
+- `/retirement-duplicate-check`
+- `/additionality-evidence`
+- `/methodology-eligibility`
 - `/offset-project-risk`
 - `/registry-validation`
 - `/carbon-credit-review`
