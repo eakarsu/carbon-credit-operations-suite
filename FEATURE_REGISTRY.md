@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## Carbon Credit Verification
+
+- Carbon Credit Review
+- Registry Validation
+- Offset Project Risk
+
+## Focused enhancement: Carbon Credit Verification
+
+Source evidence: AICarbonCreditMarketplaceVerifier.

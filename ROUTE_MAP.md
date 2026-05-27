@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/offset-project-risk`
+- `/registry-validation`
+- `/carbon-credit-review`
 - `/records`
 - `/applications`
 - `/transactions`
